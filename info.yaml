@@ -1,0 +1,6 @@
+info:
+  name: ExchangeRate
+  author: IVM-USER
+  version: 0.0.1
+  description: The module that displays the exchange rates of the specified currency
+  src_url: https://github.com/IVM-USER/ExchangeRate

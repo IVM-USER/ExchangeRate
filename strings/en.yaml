@@ -1,0 +1,4 @@
+err:
+  empty: "<b>You didn't specify anything (´｡• ᵕ •｡`)</b>"
+  val: "<b>I don't know this currency (-ω-、)</b>"
+  inp: "<b>You entered the data incorrectly ʕ ᴥ ʔ</b>"
